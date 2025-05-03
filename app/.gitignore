@@ -1,0 +1,11 @@
+# Android Studio
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+*.iml
+
+# Firebase
+app/google-services.json
